@@ -1,5 +1,5 @@
 ---
-title: hexo Markdown 语法记录
+title: hexo Markdown 常用语法
 date: 2017-12-29 17:34:12
 tags: tools
 ---
